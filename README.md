@@ -2,6 +2,7 @@
 Container to using xdebug on php in docker.
 
 ## Dependencies
+- Docker
 
 ## Running
 
